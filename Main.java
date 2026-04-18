@@ -10,7 +10,7 @@ import java.util.*;
  * 2. Launches the Swing GUI for interactive visualization.
  *
  * Compile:  javac *.java
- * Run:      java Main
+ * Run:     \ java Main
  */
 public class Main {
 
